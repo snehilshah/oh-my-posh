@@ -128,14 +128,6 @@
           "template": " \uf0ad ",
           "powerline_symbol": "\ue0b0",
           "type": "root"
-        },
-        {
-          "background": "#fb7185",
-          "foreground": "#4c0519",
-          "style": "powerline",
-          "template": " \udb82\udcd0 ",
-          "powerline_symbol": "\ue0b0",
-          "type": "text" 
         }
       ],
       "type": "prompt"
