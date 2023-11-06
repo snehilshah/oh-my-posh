@@ -5,7 +5,9 @@
     "tan": "#CC3802",
     "teal": "#047E84",
     "plum": "#9A348E",
+    "fuschia600": "#155e75",
     "blush": "#DA627D",
+    "path": "#3f3f46",
     "salmon": "#FCA17D",
     "sky": "#0284c7",
     "teal_blue": "#33658A"
@@ -88,7 +90,7 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "p:plum",
+          "background": "p:fuschia600",
           "foreground": "p:white",
           "invert_powerline": true,
           "powerline_symbol": "\ue0b6",
@@ -97,7 +99,7 @@
           "type": "session"
         },
         {
-          "background": "p:blush",
+          "background": "p:path",
           "foreground": "p:white",
           "powerline_symbol": "\ue0b4",
           "properties": {
@@ -128,6 +130,14 @@
           "template": " \uf0ad ",
           "powerline_symbol": "\ue0b0",
           "type": "root"
+        },
+        {
+          "background": "#525252",
+          "foreground": "#d4d4d8",
+          "style": "powerline",
+          "template": " \udb82\udcd0 ",
+          "powerline_symbol": "\ue0b0",
+          "type": "text"
         }
       ],
       "type": "prompt"
